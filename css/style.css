@@ -1,0 +1,259 @@
+body{
+    background-color: rgb(149, 190, 232);
+}
+
+.cont1{
+    border: 2px solid;
+    margin: 30px 210px;
+    width: 600px;
+    height: 365px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    border-color:#3c4f62;
+}
+
+h1{
+    font-family: Luckiest Guy;
+    margin-top: 0px;
+    font-size: 50px;
+    text-align: center;
+    border: 2px solid;
+    border-color:#3c4f62;
+    background-color:#3c4f62;
+}
+
+.ing_usu{
+    text-align: center;
+    margin-left: 25%;
+    font-size: 25px;
+    border: 2px solid;
+    border-radius: 10px;
+    border-color:black;
+    display: block;
+}
+
+.ing_usu:hover{
+    background-color:#c5cfd8;
+    color: rgb(118,118,118);
+    border-color:black;
+}
+
+.descripcion{
+    text-align: justify;
+    padding: 2px 20px;
+    font-family: Concert One;
+    font-size:20px;
+    color: rgb(80, 82, 82);
+}
+
+.boton{
+    background-color:#e1dfa2;
+    color: rgb(110 90 76);
+    display: block;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 450px;
+}
+
+.boton:hover{
+    background-color: #f0c845;
+    color: rgb(190, 94, 4);
+}
+
+/*pagina de conocimiento*/
+
+.boton_cono{
+    background-color:#c5cfd8;
+    color: rgb(0 0 0);
+    display: block;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-bottom: 5px;
+    height: 50px;
+    width: 400px
+}
+
+/*Nivel secundario*/
+.boton_Sec1{
+    display: flex;
+    margin-left: 35px;
+}
+
+.boton_Sec2{
+    display: flex;
+    margin-left: 20%;
+}
+
+.botons1{
+    background-color:#c5cfd8;
+    color: rgb(0 0 0);
+    display: block;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    margin-left: 15px;
+}
+
+.botons1:hover{
+    background-color: rgb(41, 49, 117);
+    color: white;
+}
+
+.botons2{
+    background-color:#c5cfd8;
+    color: rgb(0 0 0);
+    display: block;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    margin-left: 15px;
+}
+
+.botons2:hover{
+    background-color: rgb(108, 117, 41);
+    color: white;
+}
+
+.botons3{
+    background-color:#c5cfd8;
+    color: rgb(0 0 0);
+    display: block;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    margin-left: 15px;
+}
+
+.botons3:hover{
+    background-color: rgb(117, 74, 41);
+    color: white;
+}
+
+.botons4{
+    background-color:#c5cfd8;
+    color: rgb(0 0 0);
+    display: block;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    margin-left: 15px;
+}
+
+.botons4:hover{
+    background-color: rgb(41, 103, 117);
+    color: white;
+}
+
+.botons5{
+    background-color:#c5cfd8;
+    color: rgb(0 0 0);
+    display: block;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    margin-left: 15px;
+}
+
+.botons5:hover{
+    background-color: rgb(117, 41, 41);
+    color: white;
+}
+
+/*test de conocimiento*/
+
+.pregunta{
+    font-family: "Unkempt",cursive;
+
+}
+
+.opciones{
+    background-color:#c5cfd8;
+    color: rgb(0 0 0);
+    display: block;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-bottom: 5px;
+    height: 50px;
+    width: 400px
+}
+
+.resultado{
+    margin-top: 2px;
+    margin-left: 25px ;
+    font-size: 20px;
+    font-family: "Unkempt", cursive;
+}
+
+/*aprendizaje*/
+.botonR{
+    background-color:#c5cfd8;
+    color: rgb(0 0 0);
+    display: block;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-bottom: 5px;
+    height: 50px;
+    width: 400px
+}
+
+/*tipo de aprendizaje*/
+
+.boton_a{
+    display: flex;
+    margin-left: 20%;
+}
+
+.boton_a1{
+    display: flex;
+    margin-left: 20%;
+}
+
+.botonA{
+    background-color:#c5cfd8;
+    color: rgb(0 0 0);
+    display: block;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    margin-left: 40px;
+}
+

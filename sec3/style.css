@@ -1,0 +1,185 @@
+body{
+    background-color: rgb(149, 190, 232);
+}
+
+.cont1{
+    border: 2px solid;
+    margin: 30px 210px;
+    width: 600px;
+    height: 365px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    border-color:#3c4f62;
+}
+
+h1{
+    font-family: Luckiest Guy;
+    margin-top: 0px;
+    font-size: 50px;
+    text-align: center;
+    border: 2px solid;
+    border-color:#3c4f62;
+    background-color:#3c4f62;
+}
+
+.descripcion{
+    text-align: justify;
+    padding: 2px 20px;
+    font-family: Concert One;
+    font-size:20px;
+    color: rgb(80, 82, 82);
+}
+
+/* cursos*/
+.curso1{
+    display: block;
+    margin-left: 80px;
+}
+
+.curso2{
+    display: block;
+    margin-left: 80px;
+}
+
+.cursoc1{
+    background-color:#c5cfd8;
+    color: rgb(0 0 0);
+    text-decoration: none;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    margin-left: 40px;
+}
+
+.cursoc1:hover{
+    background-color: rgb(202, 16, 16);
+    color: white;
+}
+
+.cursoc2{
+    background-color:#c5cfd8;
+    color: rgb(0 0 0);
+    text-decoration: none;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    margin-left: 40px;
+}
+
+.cursoc2:hover{
+    background-color: rgb(64, 146, 52);
+}
+
+.cursoc3{
+    background-color:#c5cfd8;
+    color: rgb(0 0 0);
+    text-decoration: none;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    margin-left: 40px;
+}
+
+.cursoc3:hover{
+    background-color: rgb(193, 196, 48);
+
+}
+
+.cursoc4{
+    background-color:#c5cfd8;
+    color: rgb(0 0 0);
+    text-decoration: none;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    margin-left: 40px;
+}
+
+.cursoc4:hover{
+    background-color: rgb(124, 114, 114);
+    color: white;
+}
+
+.cursoc5{
+    background-color:#c5cfd8;
+    color: rgb(0 0 0);
+    text-decoration: none;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    margin-left: 40px;
+}
+
+.cursoc5:hover{
+    background-color: rgb(25, 55, 153);
+    color: white;
+}
+
+.cursoc6{
+    background-color:#c5cfd8;
+    color: rgb(0 0 0);
+    text-decoration: none;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    margin-left: 40px;
+}
+
+.cursoc6:hover{
+    background-color: rgb(8, 8, 8);
+    color: white;
+}
+
+.cursoc7{
+    background-color:#c5cfd8;
+    color: rgb(0 0 0);
+    text-decoration: none;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    margin-left: 40px;
+}
+
+.cursoc7:hover{
+    background-color: rgb(168, 113, 31);
+    color: white;
+}
+
+.cursoc8{
+    background-color:#c5cfd8;
+    color: rgb(0 0 0);
+    text-decoration: none;
+    font-family: "Unkempt", cursive;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    margin-left: 40px;
+}
+
+.cursoc8:hover{
+    background-color: rgb(100, 41, 148);
+    color: white;
+}
